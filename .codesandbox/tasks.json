@@ -6,8 +6,8 @@
       "command": "cd Ultraviolet-App"
     },
     {
-      "command": "npm lnstall",
-      "name": "n"
+      "name": "n",
+      "command": "npm lnstall"
     }
   ],
 
